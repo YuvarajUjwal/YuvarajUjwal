@@ -4,7 +4,7 @@
 
 🔬 Embedded Systems and IoT Engineer specializing in Embedded Linux, Yocto Project, and Edge Computing
 
-🚀 Currently working on an industry-sponsored thesis in collaboration with Analog Devices Inc. focused on designing and evaluating IoT edge gateway software stacks for unreliable network environments.
+🚀 Currently working on an industry-sponsored project in collaboration with Analog Devices Inc. focused on designing and evaluating IoT edge gateway software stacks for unreliable network environments.
 
 ---
 
