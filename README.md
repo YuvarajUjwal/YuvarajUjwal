@@ -120,10 +120,6 @@ DOI: https://doi.org/10.1109/ICCES67310.2025.11336330
 
 🌐 IoT Edge Gateway Architectures
 
-📡 Wireless Networks & Antenna Systems
-
-🎓 PhD Preparation and Research
-
 ---
 
 ## Connect With Me
