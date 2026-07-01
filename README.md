@@ -58,7 +58,7 @@
 
 ---
 
-## Professional Experience
+## Work Experience
 
 ### Analog Devices Inc. | Project Intern — Embedded Linux & IoT | Jul 2025 – Jun 2026
 - Created a custom Yocto meta-layer consolidating all configurations, recipes, and files for an edge gateway stack.
