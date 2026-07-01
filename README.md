@@ -1,10 +1,10 @@
 # Hi, I'm Yuvaraj Ujwal Madineni 👋
 
-🎓 M.Tech in Wireless Networks & Applications at Amrita Vishwa Vidyapeetham (CGPA: 9.32)
-
 🔬 Embedded Systems and IoT Engineer specializing in Embedded Linux, Yocto Project, and Edge Computing
 
 🚀 Currently working on an industry-sponsored project in collaboration with Analog Devices Inc. focused on designing and evaluating IoT edge gateway software stacks for unreliable network environments.
+
+🎓 M.Tech in Wireless Networks & Applications at Amrita Vishwa Vidyapeetham (CGPA: 9.25)
 
 ---
 
